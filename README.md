@@ -20,5 +20,5 @@ To see my deployed code click on the link below:
  https://aya-22.github.io/react-portfolio/
 
  The following image shows the completed web application after using JavaScript:
-![image](/Users/Jennifer/Desktop/Bootcamp HW.nosync/week_20/react-portfolio/react-profile-image.png)
+![image](react-profile-image.png)
 
