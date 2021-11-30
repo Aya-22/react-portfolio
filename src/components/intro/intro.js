@@ -9,16 +9,14 @@ export default class Intro extends Component {
             <div className="s-hero__content-about">
               <h1>I'm Jennifer Ayala.</h1>
               <h3>
-                I'm a Santa Ana based <span>Full-Stack Developer</span>,{" "}
-                <span>illustrator</span> and <span>webdesigner</span> creating
-                awesome and effective visual identities for companies of all
-                sizes around the globe. Let's{" "}
+                I'm a Santa Ana based <span>Full-Stack Developer student</span>,
+                that is ready to create awesome apps. Scroll down to learn more about me
                 <a className="smoothscroll" href="#about">
-                  start scrolling
+                 {/* start scrolling */}
                 </a>
-                and learn more{" "}
+                 {/* and learn more */}
                 <a className="smoothscroll" href="#about">
-                  about me
+                  {/* about me */}
                 </a>
                 .
               </h3>

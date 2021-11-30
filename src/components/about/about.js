@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 export default class About extends Component {
   render() {
     return (
@@ -10,16 +10,12 @@ export default class About extends Component {
           <div className="column large-9 tab-12 s-about__content">
             <h3>About Me</h3>
             <p>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem 
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
-              quae ab illo inventore veritatis et quasi architecto beatae vitae 
-              dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit 
-              aspernatur aut odit aut fugit, sed quia consequuntur magni dolores 
-              eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-              qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
-              sed quia non numquam eius modi tempora incidunt ut labore et dolore 
-              magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis 
-              nostrum exercitationem ullam corporis suscipit laboriosam.
+              I am currently working at WG as an Assistant Account Manager. I
+              have been at the company for 4 years. 
+              
+              In addition to work, I am a
+              student wiht the UCI coding bootcamp. My graduation date for
+              bootcamp is December 1, 2021.
             </p>
             <hr />
             <div className="row s-about__content-bottom">
@@ -40,8 +36,9 @@ export default class About extends Component {
               </div> */}
             </div>
           </div>
-        </div> {/* end row */}
-      </section> 
+        </div>{" "}
+        {/* end row */}
+      </section>
     );
   }
 }
